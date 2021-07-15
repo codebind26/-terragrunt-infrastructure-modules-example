@@ -1,2 +1,2 @@
-# -terragrunt-infrastructure-modules-example
+# terragrunt-infrastructure-modules-example
 Keep Infrastructure Dry Using Terragrunt 
